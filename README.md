@@ -23,7 +23,6 @@ const BakeungDickson = {
 ---
 
 ## Skills
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -34,6 +33,8 @@ const BakeungDickson = {
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
+
+##
 
 Feel free to reach out to me if you have any questions or if you'd like to discuss potential frontend opportunities. I'm open to new challenges and collaborations!
 💬 [Here]([https://github.com/BlaizDickson/BlaizDickson/issues)
